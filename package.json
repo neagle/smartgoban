@@ -1,0 +1,34 @@
+{
+  "name": "smartgoban",
+  "version": "1.0.0",
+  "description": "Rules and state for a game of go",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "smartgame",
+    "smartgamer",
+    "go",
+    "weiqi",
+    "baduk"
+  ],
+  "author": {
+    "name": "neagle",
+    "email": "nate@nateeagle.com",
+    "url": "https://github.com/neagle"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neagle/smartgoban/issues"
+  },
+  "homepage": "https://github.com/neagle/smartgoban",
+  "devDependencies": {
+    "mocha": "*",
+    "smartgame": "^0.1.2",
+    "util": "^0.10.3"
+  },
+  "dependencies": {
+    "smartgamer": "^0.1.4"
+  }
+}
